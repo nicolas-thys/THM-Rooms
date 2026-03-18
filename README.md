@@ -7,3 +7,5 @@ Here I present the rooms I’ve designed, with links to each room and write-up.
 | <img src="./assets/purple_sandwich.png" alt="Sandwich_purple" width="50" height="50" style="vertical-align: middle;">| Who am I ? | Medium | 🔗 Web / 🕵️ Stego /📁 FTP Anonymous <br> 🔐 PrivEsc / 💣 Brute-force (John, CuPP) | [THM - Who Am I](https://tryhackme.com/jr/whoamI)| Write-up <br> Coming soon
 | <img src="./assets/Inferno.jpg" alt="Inferno" width="50" height="50" style="vertical-align: middle;">| Born to Burn | Medium | 🔗 Web / 🕵️ Stego /📁 FTP Anonymous <br> 🔐 PrivEsc / 💣 Brute-force (John, CuPP) | [THM - Born to Burn](https://tryhackme.com/jr/borntoburn)| Write-up <br> Coming soon
 | <img src="./assets/BloodHeart.png" alt="BloodHeart" width="50" height="50" style="vertical-align: middle;">| Blood Heart | Hard | 🔗 Web / 🔐 PrivEsc / 💣 Brute-force | THM - Blood Heart <br> Coming soon | Write-up <br> Coming soon
+
+Since on TryHackMe, even with a premium subscription, you're limited to uploading three machines, only two or three rooms are active at a time while waiting for the platform to publish them.
