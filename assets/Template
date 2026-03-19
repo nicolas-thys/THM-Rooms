@@ -4,6 +4,8 @@
 
 ---
 
+## 🗂️ Catégories disponibles
+
 🌐 Web
 🕵️ Stéganographie
 📁 FTP Anonyme
@@ -25,44 +27,6 @@
 📦 Conteneurs
 🌑 Dark Web / Tor
 
-
-## 🗂️ Catégories disponibles
-
-| Emoji | Thème | Description |
-|-------|-------|-------------|
-| 🌐 | Web | Exploitation de vulnérabilités web (XSS, SQLi, IDOR…) |
-| 🕵️ | Stéganographie | Dissimulation / extraction de données cachées |
-| 📁 | FTP Anonyme | Accès FTP sans authentification |
-| 🔐 | Élévation de privilèges | PrivEsc Linux/Windows |
-| 💣 | Brute-force | Attaque par dictionnaire (John, CuPP, Hydra…) |
-| 🔍 | Reconnaissance | OSINT, Nmap, énumération |
-| 🧱 | Réseau | Analyse de trafic, Wireshark, protocoles |
-| 💻 | Reverse Shell | Obtention d'un accès distant |
-| 🧬 | Buffer Overflow | Exploitation mémoire bas niveau |
-| 🗝️ | Cryptographie | Chiffrement, hachage, déchiffrement |
-| 🪤 | Injection | SQLi, Command Injection, SSTI… |
-| 🗄️ | Base de données | Énumération et exploitation SQL/NoSQL |
-| 🤖 | Scripting | Automatisation Python / Bash |
-| 📡 | Wireless | Wi-Fi, WPA2, attaques sans fil |
-| 🧩 | CTF | Capture the Flag généraliste |
-| 🛡️ | Blue Team / Défense | Analyse de logs, forensique, SIEM |
-| 🧪 | Forensique | Analyse d'artefacts, mémoire, disque |
-| 🔗 | Active Directory | Kerberos, BloodHound, Pass-the-Hash |
-| 📦 | Conteneurs | Docker, Kubernetes, escape |
-| 🌑 | Dark Web / Tor | Navigation anonyme, onion services |
-
----
-
-## 📋 Structure d'une room type
-
-| Ordre | Emoji | Section | Exemple de contenu |
-|-------|-------|---------|-------------------|
-| 1 | 📖 | Introduction | Contexte du scénario |
-| 2 | 🔍 | Reconnaissance | Nmap, énumération, OSINT |
-| 3 | 🌐 **ou** 📁 **ou** 🧱 | Phase d'exploitation | Selon le thème choisi |
-| 4 | 🔐 | Élévation de privilèges | `sudo -l`, SUID, cron… |
-| 5 | 🏁 | Flag | Capture du flag final |
-
 ---
 
 ## 🏷️ Tags rapides
@@ -76,24 +40,5 @@
 | `⏱️ ~1 h` | Durée estimée |
 | `🧑‍💻 Solo` | Recommandé en solo |
 | `👥 Équipe` | Adapté en groupe |
-
----
-
-## 🛠️ Outils mentionnés par thème
-
-| Thème | Outils courants |
-|-------|----------------|
-| 🌐 Web | Burp Suite, Gobuster, Nikto, curl |
-| 🕵️ Stégo | Steghide, Binwalk, ExifTool, strings |
-| 📁 FTP | `ftp`, FileZilla, Nmap scripts |
-| 🔐 PrivEsc | LinPEAS, WinPEAS, GTFOBins |
-| 💣 Brute-force | John the Ripper, CuPP, Hydra, Medusa |
-| 🔍 Recon | Nmap, theHarvester, Shodan, Recon-ng |
-| 🧱 Réseau | Wireshark, tcpdump, netcat |
-| 🗝️ Crypto | CyberChef, hashcat, openssl |
-| 🔗 Active Directory | BloodHound, Impacket, CrackMapExec |
-| 🧪 Forensique | Volatility, Autopsy, FTK Imager |
-
----
 
 *Template — adapte les lignes selon les besoins de ta room.*
