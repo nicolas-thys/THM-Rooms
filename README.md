@@ -1,5 +1,5 @@
 # My TryHackMe Rooms
-Here I present the rooms I’ve designed, with links to each room and write-up.
+Here I present the TryHackMe rooms I’ve designed, with links to each room and write-up.
 
 |Picture| Room | Difficulty | Focus | Links to room |Write-up|
 |-------|------|------------|-------|---------------|--------|
@@ -11,10 +11,8 @@ Here I present the rooms I’ve designed, with links to each room and write-up.
 ⚠️​ Since on TryHackMe, even with a premium subscription, you're limited to uploading three machines, only two or three rooms are active at a time while waiting for the platform to publish them.
 
 # My HackTheBox Rooms
-Here I present the rooms I’ve designed, with links to each room and write-up.
+Here I present the HackTheBox rooms I’ve designed, with links to each room and write-up.
 
 |Picture| Room | Difficulty | Focus | Links to room |Write-up|
 |-------|------|------------|-------|---------------|--------|
 | <img src="" alt="" width="50" height="50" style="vertical-align: middle;">| Glutton | Medium |  | [HTB - Glutton - Coming soon] | [Write-up - Coming soon]
-
-⚠️​ Since on TryHackMe, even with a premium subscription, you're limited to uploading three machines, only two or three rooms are active at a time while waiting for the platform to publish them.
