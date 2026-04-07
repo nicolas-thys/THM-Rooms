@@ -15,5 +15,6 @@ Here I present the HackTheBox rooms I’ve designed, with links to each room and
 
 |Picture| Room | Difficulty | Focus | Links to room |Write-up|
 |-------|------|------------|-------|---------------|--------|
-| <img src="" alt="" width="50" height="50" style="vertical-align: middle;">| Glutton | Medium | 🌐 Web / 🔐 PrivEsc / ⚙️​ Reverse engineering  | HTB - Glutton<br>Coming soon | Write-up<br>Coming soon
+| <img src="" alt="" width="50" height="50" style="vertical-align: middle;">| Glutton | Medium | 🌐 Web / 🔐 PrivEsc / ⚙️​ Reverse engineering  | HTB - Glutton<br>Pending approval | Write-up<br>Coming soon
+| <img src="" alt="" width="50" height="50" style="vertical-align: middle;">| Glutton | Medium | 🌐 Web / 🔐 PrivEsc / ⚙️​ Reverse engineering  | HTB - Verdugo<br>Pending approval | Write-up<br>Coming soon
 | <img src="./assets/BloodHeart.png" alt="BloodHeart" width="50" height="50" style="vertical-align: middle;">| Blood Heart | Hard | 🌐 Web / 🔐 PrivEsc / 💣 Brute-force / 🎭 Social Engineering | THM - Blood Heart<br>Coming soon | Write-up<br>Coming soon
