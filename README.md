@@ -3,7 +3,7 @@ Here I present the TryHackMe rooms I’ve designed, with links to each room and 
 
 |Picture| Room | Difficulty | Focus | Links to room |Write-up|
 |-------|------|------------|-------|---------------|--------|
-| <img src="./assets/I_m_a_sad_SANDWICH_.png" alt="Sandwich" width="50" height="50" style="vertical-align: middle;">| I'm a SANDWICH | Easy | 🌐 Web / 🕵️ Stéganographie / 📁 FTP Anonymous <br> 🔐 PrivEsc / 💣 Brute-force (John, CuPP) | [I'm a SANDWICH](https://tryhackme.com/jr/imasandwich) | [Write-up - by Opium](https://thewardenmaker.github.io/posts/THM-Sandwich/)
+| <img src="./assets/I_m_a_sad_SANDWICH_.png" alt="Sandwich" width="50" height="50" style="vertical-align: middle;">| I'm a SANDWICH | Easy | 🌐 Web / 🕵️ Stéganographie / 📁 FTP Anonymous <br> 🔐 PrivEsc / 💣 Brute-force (John, CuPP) | [I'm a SANDWICH](https://tryhackme.com/jr/imasandwich) | [Write-up <br> by Opium](https://thewardenmaker.github.io/posts/THM-Sandwich/)
 | <img src="./assets/purple_sandwich.png" alt="Sandwich_purple" width="50" height="50" style="vertical-align: middle;">| Who am I ? | Medium | 🌐 Web / 🕵️ Stéganographie / 💣 Brute-force / 🔍 Reconnaissance / 🗝️ Cryptographie | [Who Am I](https://tryhackme.com/jr/whoamI)| Write-up <br> Coming soon
 | <img src="./assets/Inferno.jpg" alt="Inferno" width="50" height="50" style="vertical-align: middle;">| Born to Burn | Medium | 🌐 Web / 🔐 PrivEsc / 💣 Brute-force (John, CuPP) | [Born to Burn](https://tryhackme.com/jr/borntoburn)| Write-up <br> Coming soon
 
